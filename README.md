@@ -33,7 +33,7 @@ I thrive on the challenge of creating games that not only look good but perform 
 - **Dark Taverns**: Implemented furniture placement functionality with multi-flooring.
 - **Mythic Legions**: Ported to PC and integrated with auto-battler turn-based RPG gameplay.
 - **Death Travelers**: Solely developed infinite runner and led the architecture design for base-building mechanics; launched MVP in 3 months.
-- **2D Card Game**: Developed as a solo project, this game incorporates strategic decision-making mechanics, drawing inspiration from the popular title Reigns.
+- **Mr. Presidents**: A 2D Card Game developed as a solo project, this game incorporates strategic decision-making mechanics, drawing inspiration from the popular title Reigns.
 -  
 ## 💻 Backend Integration Specialist
 
