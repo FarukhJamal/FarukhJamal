@@ -1,9 +1,9 @@
 <p align="center">
-  <h2 align="center">🙋 Hi, I'm Farukh Jamal!</h2>
-  <p align="center">A Senior Game Developer with 4+ years of expertise in multiplayer systems, gameplay mechanics, and performance optimization. Proven track record of leading teams and delivering high-quality games on time. Dedicated to continuous learning and pushing the boundaries of game development.</p>
+  <h2 align="center"> Hi, I'm Farukh Jamal! 👋</h2>
+  <p align="center">A Senior Unity Developer with 5 years of experience in creating immersive games across mobile, PC, WebGL, and AR/VR platforms. I specialize in building complex multiplayer systems, optimizing performance, and leading teams to deliver polished, high-quality games.</p>
 </p>
 
-## 🌟 GitHub Stats
+## 🎖️ GitHub Stats
 [![Farukh Jamal's GitHub stats](https://github-readme-stats-pi-eight-64.vercel.app/api?username=FarukhJamal&show_icons=true&rank_icon=github&include_all_commits=true&title_color=fff&text_color=fff&icon_color=00bfff&bg_color=30,e96443,904e95&hide=issues)](https://github.com/FarukhJamal)
 [![Top Langs](https://github-readme-stats-pi-eight-64.vercel.app/api/top-langs/?username=FarukhJamal&layout=compact&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&card_width=470)](https://github.com/FarukhJamal)
 
@@ -19,13 +19,20 @@
 | **DevOps & Automation** | CI/CD Pipelines, Unity Gaming Services |
 
 
-## 🚀 Crafting Immersive, High-Performance Games
+## 🚀 About My Work
 
-In the fast-paced world of game development, every detail matters. My expertise lies in engineering game systems that are not only visually compelling but also technically sound. I focus on building gameplay mechanics that are intuitive and responsive, ensuring that every interaction feels smooth and satisfying. Whether it’s developing multiplayer frameworks or optimizing performance for diverse hardware configurations, my goal is to push the boundaries of what’s possible in gaming.
+I thrive on the challenge of creating games that not only look good but perform exceptionally across all platforms. My work includes everything from implementing fluid gameplay mechanics to developing robust multiplayer systems. Whether it's optimizing a game for different hardware configurations or leading a team through the development process, I bring passion and expertise to every project.
 
-## 🌐 Multiplayer Systems Architect
+## 🕹️ Notable Projects
 
-Multiplayer gaming is about more than just connecting players—it's about creating shared experiences that are both seamless and engaging. I excel in architecting multiplayer systems using advance networking tools, ensuring low-latency, synchronized gameplay across all devices. From handling server-side optimization with Docker and PlayFab to handling client-side performance, I bring a holistic approach to multiplayer game development.
+- **Bee Simulation Game (2019)**: Developed simulation animations and core functionality.
+- **Unity 4.5 to 2017 Porting (2020)**: Ported legacy project, added Facebook matchmaking, Photon chat for voice communication.
+- **PvP Turn-Based RPG (2020)**: Worked on tutorial integration and in-app purchases for Android and iOS.
+- **2D Card-Based Online Battle Game**: Implemented using Google ProtoBuff and Amazon servers.
+- **Multiplayer ARPG**: Developed NavMesh-based movement, procedural dungeon generation, and fixed multiplayer bugs in Photon PUN 2.
+- **Web3 Tavern Builder**: Implemented furniture placement functionality with multi-flooring.
+- **Web-Based Character Customizer**: Ported to PC and integrated with auto-battler turn-based RPG gameplay.
+- **Casual Mobile & Web Game**: Solely developed infinite runner and led the architecture design for base-building mechanics; launched MVP in 3 months.
 
 ## 💻 Backend Integration Specialist
 
@@ -35,12 +42,11 @@ A great game is built on a solid foundation. I integrate a wide range of SDKs—
 
 Leading teams is more than just managing tasks—it's about inspiring innovation and fostering a collaborative environment. I have successfully led teams of up to 10 developers, guiding them through complex projects from concept to completion. My experience in workflow automation, CI/CD pipeline implementation, and version control ensures that we deliver high-quality products on time, every time.
 
-
 ## 📥 Let’s Connect & Collaborate
 
 I’m always open to connecting with like-minded professionals and exploring new opportunities to innovate. Let’s create something amazing together!
 
-[<img src="https://github.com/humza-13/humza-13/blob/development/icons/linkedin-64.png" alt="LinkedIn" width="64" height="64">](https://www.linkedin.com/in/muhammad-humza-butt)
-[<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:m.humzabutt@outlook.com)
+[<img src="https://github.com/FarukhJamal/FarukhJamal/blob/development/icons/linkedin-64.png" alt="LinkedIn" width="64" height="64">](https://https://www.linkedin.com/in/farukh-jamal-21a018109/)
+[<img src="https://github.com/FarukhJamal/FarukhJamal/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:m.farukhjamal45@gmail.com)
 
-_"Game development is not just about creating a product—it's about crafting an experience that resonates with players."_ 🎮
+_"Game development is about crafting experiences that leave a lasting impact."_ 🎮
