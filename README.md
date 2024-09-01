@@ -34,7 +34,7 @@ I thrive on the challenge of creating games that not only look good but perform 
 - **Mythic Legions**: Ported to PC and integrated with auto-battler turn-based RPG gameplay.
 - **Death Travelers**: Solely developed infinite runner and led the architecture design for base-building mechanics; launched MVP in 3 months.
 - **Mr. Presidents**: A 2D Card Game developed as a solo project, this game incorporates strategic decision-making mechanics, drawing inspiration from the popular title Reigns.
--  
+  
 ## 💻 Backend Integration Specialist
 
 A great game is built on a solid foundation. I integrate a wide range of SDKs—such as Firebase, Applovin, Facebook SDK, PlayFab, and AppsFlyer—to enhance gameplay, drive user engagement, and maximize monetization. My approach is data-driven, leveraging analytics and crash reports to make informed decisions that improve game stability and player retention.
