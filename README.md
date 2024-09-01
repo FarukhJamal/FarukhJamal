@@ -46,7 +46,7 @@ Leading teams is more than just managing tasks—it's about inspiring innovation
 
 I’m always open to connecting with like-minded professionals and exploring new opportunities to innovate. Let’s create something amazing together!
 
-[<img src="https://github.com/FarukhJamal/FarukhJamal/blob/development/icons/linkedin-64.png" alt="LinkedIn" width="64" height="64">](https://https://www.linkedin.com/in/farukh-jamal-21a018109/)
-[<img src="https://github.com/FarukhJamal/FarukhJamal/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:m.farukhjamal45@gmail.com)
+[<img src="https://github.com/FarukhJamal/FarukhJamal/blob/development/linkedin.png" alt="LinkedIn" width="64" height="64">](https://https://www.linkedin.com/in/farukh-jamal-21a018109/)
+[<img src="https://github.com/FarukhJamal/FarukhJamal/blob/development/email.png" alt="Email" width="64" height="64">](mailto:m.farukhjamal45@gmail.com)
 
 _"Game development is about crafting experiences that leave a lasting impact."_ 🎮
