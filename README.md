@@ -25,14 +25,14 @@ I thrive on the challenge of creating games that not only look good but perform 
 
 ## 🕹️ Notable Projects
 
-- **Bee Simulation Game (2019)**: Developed simulation animations and core functionality.
-- **Unity 4.5 to 2017 Porting (2020)**: Ported legacy project, added Facebook matchmaking, Photon chat for voice communication.
-- **PvP Turn-Based RPG (2020)**: Worked on tutorial integration and in-app purchases for Android and iOS.
-- **2D Card-Based Online Battle Game**: Implemented using Google ProtoBuff and Amazon servers.
-- **Multiplayer ARPG**: Developed NavMesh-based movement, procedural dungeon generation, and fixed multiplayer bugs in Photon PUN 2.
-- **Web3 Tavern Builder**: Implemented furniture placement functionality with multi-flooring.
-- **Web-Based Character Customizer**: Ported to PC and integrated with auto-battler turn-based RPG gameplay.
-- **Casual Mobile & Web Game**: Solely developed infinite runner and led the architecture design for base-building mechanics; launched MVP in 3 months.
+- **Beejam**: Developed simulation animations and core functionality.
+- **Super Cricket**: Ported legacy project, added Facebook matchmaking, Photon chat for voice communication.
+- **Steampunk Warlords**: Worked on tutorial integration and in-app purchases for Android and iOS.
+- **Mindblown Game**: Implemented using Google ProtoBuff and Amazon servers.
+- **Game One**: Developed NavMesh-based movement, procedural dungeon generation, and fixed multiplayer bugs in Photon PUN 2.
+- **Dark Taverns**: Implemented furniture placement functionality with multi-flooring.
+- **Mythic Legions**: Ported to PC and integrated with auto-battler turn-based RPG gameplay.
+- **Death Travelers**: Solely developed infinite runner and led the architecture design for base-building mechanics; launched MVP in 3 months.
 
 ## 💻 Backend Integration Specialist
 
