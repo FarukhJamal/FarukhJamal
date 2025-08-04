@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center"> Hi, I'm Farukh Jamal! 👋</h2>
-  <p align="center">A Senior Unity Developer with 5 years of experience in creating immersive games across mobile, PC, WebGL, and AR/VR platforms. I specialize in building complex multiplayer systems, optimizing performance, and leading teams to deliver polished, high-quality games.</p>
+  <p align="center">A Senior Unity Developer with 6 years of experience in creating immersive games across mobile, PC, WebGL, and AR/VR platforms. I specialize in building complex multiplayer systems, optimizing performance, and leading teams to deliver polished, high-quality games.</p>
 </p>
 
 ## 🎖️ GitHub Stats
